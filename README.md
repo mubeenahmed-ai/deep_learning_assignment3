@@ -27,9 +27,8 @@ This repository contains the full solution to Assignment 3 for the AI 600 Deep L
 The complete code and project files can be accessed via this GitHub repository.
 
 ```text
-.
-├── assignment_3.ipynb          # Implementation of MNIST, C-MNIST, and STL-10 experiments
-├── assignment_3_report.pdf     # Technical report containing derivations and analysis
-├── README.md                   # This file
-└── Output/                     # Generated results and visualizations
-    ├── task1a_mnist_history.png   # Training curves for MNISTNet
+└── Output/                                                         # Generated results and visualizations
+├── 25280101_deep_learning_PA3.ipynb                                # Implementation of MNIST, C-MNIST, and STL-10 experiments
+├── 25280101_mubeen_ahmed_deep_learning_assignment_3_report.pdf     # Technical report containing derivations and analysis
+├── README.md                                                       # This file
+
